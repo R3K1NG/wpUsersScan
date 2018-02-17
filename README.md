@@ -15,7 +15,7 @@ $ python wpUsersScan.py URL
 ##### Clone
  - Clone the repository with:
 ```sh
-$ git clone https://github.com/ihebski/wpUsersScan.git
+$ git clone https://github.com/R3K1NG/wpUsersScan.git
 $ cd wpUsersScan
 $ python wpUsersScan.py
 ```
@@ -25,4 +25,4 @@ $ python wpUsersScan.py
 $ sudo pip install -r requirements.txt
 ```
 ## License
-MIT
+www.easypc.ir
